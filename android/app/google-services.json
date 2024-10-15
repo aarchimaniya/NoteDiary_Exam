@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298032349152",
+    "project_id": "note-diary-exam",
+    "storage_bucket": "note-diary-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032349152:android:f4909f7d8187446356b585",
+        "android_client_info": {
+          "package_name": "com.example.contactdairy_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWU7s_tlpBs3Mu3xu4V23SmtW1JtLTSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
